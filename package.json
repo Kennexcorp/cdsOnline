@@ -21,7 +21,7 @@
     "Flot": "github:flot/flot",
     "animate.css": "^3.5.2",
     "blueimp-canvas-to-blob": "^3.14.0",
-    "blueimp-file-upload": "9.19.1",
+    "blueimp-file-upload": "10.2.0",
     "blueimp-gallery": "^2.27.1",
     "blueimp-tmpl": "^3.11.0",
     "bootstrap": "^4.0.0",
