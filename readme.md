@@ -1,4 +1,4 @@
-<p align="center">How to Initialize Project</p>
+
 
 ## About Project
 
